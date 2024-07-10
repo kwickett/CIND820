@@ -44,7 +44,7 @@ Model testing code can be found here for both VIF selected features datasets:
 Features were separated into groups based on their real-world relationship to each other. The most effective model, which I determined to be the K Nearest Neighbors 
 Model trained on a target attribute with 3 classes, was then trained on all groups to evaluate their indiviudal importance to the target attribute. 
 
-Group Initialization Code can be found here: 
+Group Initialization Code can be found here: <a href="https://github.com/kwickett/CIND820/blob/main/Grouped%20Features/Groups_Initializing_Models.ipynb">initializing groups</a>
 
 Group Training Code can be found here: 
 

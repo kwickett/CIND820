@@ -54,4 +54,4 @@ Group Training Code can be found here: <a href="https://github.com/kwickett/CIND
 Inital Results including f1 scores, MCC scores, processing time, and ranking of the models can be found here for initial models: 
 </br>
 </br>
-and here for the grouped models: 
+and here for the grouped models: <a href="https://github.com/kwickett/CIND820/blob/main/Results/Grouped%20Model%20Results%20(1).docx">results</a>

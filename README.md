@@ -33,7 +33,7 @@ and Matthews Correlation Coefficient to determine how Precision and Recall metri
 was evaluated by processing time. 
 </br>
 </br>
-Model testing code can be found here for both stepwise selected features datasets: 
+Model testing code can be found here for both stepwise selected features datasets: <a href= "https://github.com/kwickett/CIND820/blob/main/Stepwise%20Features/stepwise_features.ipynb">stepwise</a>
 </br>
 </br>
 Model testing code can be found here for both VIF selected features datasets: 

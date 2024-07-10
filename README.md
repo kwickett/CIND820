@@ -46,7 +46,7 @@ Model trained on a target attribute with 3 classes, was then trained on all grou
 
 Group Initialization Code can be found here: <a href="https://github.com/kwickett/CIND820/blob/main/Grouped%20Features/Groups_Initializing_Models.ipynb">initializing groups</a>
 
-Group Training Code can be found here: 
+Group Training Code can be found here: <a href="https://github.com/kwickett/CIND820/blob/main/Grouped%20Features/Groups_Model_Testing.ipynb">training groups</a>
 
 <h1 align="left"> Initial Results </h1>
 

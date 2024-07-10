@@ -41,7 +41,7 @@ was evaluated by processing time.
 Model testing code can be found here for both stepwise selected features datasets: <a href= "https://github.com/kwickett/CIND820/blob/main/Stepwise%20Features/stepwise_features.ipynb">stepwise</a>
 </br>
 </br>
-Model testing code can be found here for both VIF selected features datasets: 
+Model testing code can be found here for both VIF selected features datasets: <a href="https://github.com/kwickett/CIND820/blob/main/VIF%20Features/vif_features.ipynb">vif</a>
 </br>
 </br>
 <h1 align="left"> Grouping Features and Training with Most Effective Model </h1>

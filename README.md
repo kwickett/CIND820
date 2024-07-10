@@ -10,9 +10,13 @@
 </div>
 </br> 
 
+<h1 alighn="left">Study Replication</h1>
+
+My first step was to recreate the Ahishakiye et al. study as it was presented. The code for that replication can be found here: <a href="">replication</a>
+
 <h1 align="left"> Preprocessing and Initializing Models </h1>
 </br>
-In this stage of the project I worked on dealing with missing data, as well as reducing dimensionality through two techniques of feature selection: 
+In this stage of the project I worked the complete dataset, dealing with missing data, as well as reducing dimensionality through two techniques of feature selection: 
 
 - Stepwise Feature Selection 
 - VIF Feature Elimination
@@ -51,7 +55,8 @@ Group Training Code can be found here: <a href="https://github.com/kwickett/CIND
 
 <h1 align="left"> Initial Results </h1>
 
-Inital Results including f1 scores, MCC scores, processing time, and ranking of the models can be found here for initial models: 
+Inital Results including f1 scores, MCC scores, processing time, and ranking of the models can be found here for initial models: <a href="https://github.com/kwickett/CIND820/blob/main/Results/Regression%20Model%20Results%20.docx">results</a>
 </br>
 </br>
 and here for the grouped models: <a href="https://github.com/kwickett/CIND820/blob/main/Results/Grouped%20Model%20Results%20(1).docx">results</a>
+

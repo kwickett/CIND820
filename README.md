@@ -25,6 +25,7 @@ I also created datasets which divided my target feature into different numbers o
 3. VIF selected features with 5 classes in target attribute
 4. VIF selected features with 3 classes in target attribute
 
+Pre-procesing code can be found here <a href"">pre-processing</a> 
 </br>
 <h1 alighn="left"> Testing Decision Tree, Logistic Regression, and K Nearest Neighbors Regression Models </h1>
 </br>

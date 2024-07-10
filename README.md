@@ -12,7 +12,7 @@
 
 <h1 alighn="left">Study Replication</h1>
 
-My first step was to recreate the Ahishakiye et al. study as it was presented. The code for that replication can be found here: <a href="">replication</a>
+My first step was to recreate the Ahishakiye et al. study as it was presented. The code for that replication can be found here: <a href="https://github.com/kwickett/CIND820/blob/main/Study_Replication.ipynb">replication</a>
 
 <h1 align="left"> Preprocessing and Initializing Models </h1>
 </br>

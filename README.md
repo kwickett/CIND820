@@ -59,3 +59,5 @@ Inital Results including f1 scores, MCC scores, processing time, and ranking of 
 </br>
 and here for the grouped models: <a href="https://github.com/kwickett/CIND820/blob/main/Results/Grouped%20Model%20Results%20(1).docx">results</a>
 
+Code used to visualize the code for reporting can be found here: <a href="https://github.com/kwickett/CIND820/blob/main/Results/Results.ipynb">visualizing results</a>
+

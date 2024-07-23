@@ -5,7 +5,6 @@
 
 <div align="center"> 
   <h2 align="center"> Katherine Wickett, Student Number: 501280122 </h2>
-  <h3 align="center"> July 9, 2024 </h3>
   <h3 align="center"> Supervisor: Professor Tamer Abdou </h3>  
 </div>
 </br> 
